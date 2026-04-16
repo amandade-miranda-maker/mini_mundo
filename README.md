@@ -1,1 +1,2 @@
-# mini_mundo
+# Mini_mundo
+O desenvolvimento deste projeto fundamenta-se, primariamente, na construção de um modelo conceitual sólido, que atua como a representação abstrata da realidade que pretendemos computar. Diferente das implementações técnicas posteriores, o modelo conceitual foca estritamente nas regras de negócio e na semântica dos dados, funcionando como um mapa mental que organiza como os diferentes elementos do sistema interagem entre si antes mesmo da definição de tabelas ou linhas de código.
